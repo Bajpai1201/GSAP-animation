@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    /* background-color: blanchedalmond; */
+}
+
+#page1 {
+    height: 100vh;
+    width: 100%;
+    background-color: #e3e3c4;
+}
+
+#page2 {
+    height: 100vh;
+    width: 100%;
+    background-color: #5B6647;
+    padding: 5vw;
+}
+
+#page2 h1{
+    color: #e3e3c4;
+    font-size: 6vw;
+    text-align: center;
+    font-family: PP woodland;
+}
+
+#page3 {
+    height: 100vh;
+    width: 100%;
+    background-color: #e3e3c4;
+}
